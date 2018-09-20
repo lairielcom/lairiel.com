@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow:
+Sitemap: https://lairiel.com/sitemap.xml
+
+User-agent: Yandex
+Disallow:
+Host: https://lairiel.com
+
+
+
